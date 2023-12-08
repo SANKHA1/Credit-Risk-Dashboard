@@ -1,4 +1,4 @@
-# Credit Scoring: Logistic + Tree-based Algorithms
+# Credit Risk Dashboard
 
 
 This work is to illustrate some useful techniques in Credit Scoring Modelling, namely:
