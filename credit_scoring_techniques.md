@@ -1,13 +1,4 @@
----
-title: 'Credit Scoring: Logistic + Tree-based Algorithms'
-author: "Anh Dang"
-date: "10 March 2019"
-output:
-  html_document: default
-  pdf_document: default
----
-
-By the data set from **Give Me Some Credit** (2012) <https://www.kaggle.com/c/GiveMeSomeCredit>, which contains 150,000 observations with 11 features, this work is to illustrate some useful techniques in Credit Scoring Modelling, namely:
+This work is to illustrate some useful techniques in Credit Scoring Modelling, namely:
 
 1. Data Preparation and Exploration at Univariate Level with rank plots for continuous variables, and the Information Value Analysis to do variable transformation and selection
 2. Multivariate Analysis with several feature engineering along the analytics 
